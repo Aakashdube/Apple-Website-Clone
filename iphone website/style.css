@@ -234,15 +234,3 @@
 .footer{
     padding: 20px;
 }
-.mainuopen{
-    display: none;
-}
-@media(max-width:600px){
-    .navbar ul{
-        display: none;
-    }
-    .navbar{
-        display: flex;
-        justify-content: space-around;
-    }
-}
